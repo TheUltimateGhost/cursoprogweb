@@ -41,7 +41,6 @@ body {
   color: var(--gray30);
   font-family: 'Roboto', sans-serif;
   margin: 0;
-  /* font-family: charter; */
 }
 
 a {
@@ -49,29 +48,13 @@ a {
 }
 
 header {
-  /* --gray10: red; */
   font-size: 14px;
   width: 188px;
   color: var(--gray10);
   position: absolute;
-  /* right: 0; */
-  /* bottom: 0; */
   top: 64px;
   left: -232px;
-  /* top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0; */
-  /* margin: 50px; */
-  /* top left bottom right z-index */
-  /* top: 200px; */
-  /* left: 30px; */
-  /* right: 50px;
-  bottom: 100px; */
   z-index: 1;
-  /* position: absolute;
-  position: fixed;
-  position: sticky; */
 }
 
 header a {
@@ -93,27 +76,14 @@ header li {
 
 h1 {
   font-size: 60px;
-  /* text-decoration: underline; */
-  /* font-size: 3.75em; */
   margin-top: 64px;
   margin-bottom: 16px;
   font-weight: normal;
-  /* margin-left: 20px;
-  margin-right: 10px; */
-  /* margin: top right bottom left; */
-  /* margin: 64px 10px 16px 20px;
-  margin: 10px 5px;
-  margin: 30px 20px 10px; */
-  /* border: 1px solid red; */
-}
 
-/* h1 + p {
-  margin-bottom: 64px;
-} */
+}
 
 hr {
   margin: 64px 0;
-  /* background: red; */
 }
 
 h2 {
@@ -135,7 +105,6 @@ h3 {
 pre {
   background: #FEC62E;
   padding: 40px;
-  /* padding-left: 40px; */
   font-family: 'Roboto';
   line-height: 24px;
 }
